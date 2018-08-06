@@ -1364,7 +1364,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .narrow {
-   max-width: 800px;
+   
 }
 
 
@@ -1861,7 +1861,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .s-pageheader--home {
-   min-height: 480px;
+   /* min-height: 480px; */
    padding-top: 222px;
 }
 

@@ -5,7 +5,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>Philosophy</title>
+    <title>Blog</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -93,24 +93,12 @@
 							<li class="has-children">
 								<a href="#0" title="">Categories</a>
 								<ul class="sub-menu">
-								<li><a href="category.html">Lifestyle</a></li>
-								<li><a href="category.html">Health</a></li>
-								<li><a href="category.html">Family</a></li>
-								<li><a href="category.html">Management</a></li>
-								<li><a href="category.html">Travel</a></li>
-								<li><a href="category.html">Work</a></li>
+								<li><a href="category.php">Design</a></li>
+								<li><a href="category.php">Graphic</a></li>
+								<li><a href="category.php">Photoshop</a></li>
+								<li><a href="category.php">Tech work</a></li>
 								</ul>
 							</li>
-							<li class="has-children">
-								<a href="#0" title="">Blog</a>
-								<ul class="sub-menu">
-								<li><a href="single-video.html">Video Post</a></li>
-								<li><a href="single-audio.html">Audio Post</a></li>
-								<li><a href="single-gallery.html">Gallery Post</a></li>
-								<li><a href="single-standard.html">Standard Post</a></li>
-								</ul>
-							</li>
-							<li><a href="style-guide.html" title="">Styles</a></li>
 							<li><a href="about.html" title="">About</a></li>
 							<li><a href="contact.html" title="">Contact</a></li>
 						</ul> <!-- end header__nav -->
@@ -122,86 +110,5 @@
 				</div> <!-- header-content -->
 			</div>
         </header> <!-- header -->
-
-
-        <div class="pageheader-content row">
-            <div class="col-full">
-
-                <div class="featured">
-
-                    <div class="featured__column featured__column--big">
-                        <div class="entry" style="background-image:url('images/thumbs/featured/featured-guitarman.jpg');">
-                            
-                            <div class="entry__content">
-                                <span class="entry__category"><a href="#0">Music</a></span>
-
-                                <h1><a href="#0" title="">What Your Music Preference Says About You and Your Personality.</a></h1>
-
-                                <div class="entry__info">
-                                    <a href="#0" class="entry__profile-pic">
-                                        <img class="avatar img-responsive" src="images/avatars/user-03.jpg" alt="">
-                                    </a>
-
-                                    <ul class="entry__meta">
-                                        <li><a href="#0">John Doe</a></li>
-                                        <li>December 29, 2017</li>
-                                    </ul>
-                                </div>
-                            </div> <!-- end entry__content -->
-                            
-                        </div> <!-- end entry -->
-                    </div> <!-- end featured__big -->
-
-                    <div class="featured__column featured__column--small">
-
-                        <div class="entry" style="background-image:url('images/thumbs/featured/featured-watch.jpg');">
-                            
-                            <div class="entry__content">
-                                <span class="entry__category"><a href="#0">Management</a></span>
-
-                                <h1><a href="#0" title="">The Pomodoro Technique Really Works.</a></h1>
-
-                                <div class="entry__info">
-                                    <a href="#0" class="entry__profile-pic">
-                                        <img class="avatar img-responsive" src="images/avatars/user-03.jpg" alt="">
-                                    </a>
-
-                                    <ul class="entry__meta">
-                                        <li><a href="#0">John Doe</a></li>
-                                        <li>December 27, 2017</li>
-                                    </ul>
-                                </div>
-                            </div> <!-- end entry__content -->
-                          
-                        </div> <!-- end entry -->
-
-                        <div class="entry" style="background-image:url('images/thumbs/featured/featured-beetle.jpg');">
-
-                            <div class="entry__content">
-                                <span class="entry__category"><a href="#0">LifeStyle</a></span>
-
-                                <h1><a href="#0" title="">Throwback To The Good Old Days.</a></h1>
-
-                                <div class="entry__info">
-                                    <a href="#0" class="entry__profile-pic">
-                                        <img class="avatar img-responsive" src="images/avatars/user-03.jpg" alt="">
-                                    </a>
-
-                                    <ul class="entry__meta">
-                                        <li><a href="#0">John Doe</a></li>
-                                        <li>December 21, 2017</li>
-                                    </ul>
-                                </div>
-                            </div> <!-- end entry__content -->
-
-                        </div> <!-- end entry -->
-
-                    </div> <!-- end featured__small -->
-                </div> <!-- end featured -->
-
-            </div> <!-- end col-full -->
-        </div> <!-- end pageheader-content row -->
-
     </section> <!-- end s-pageheader -->
 
-
