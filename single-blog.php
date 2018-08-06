@@ -36,27 +36,29 @@
 					
 					<p>Duis ex ad cupidatat tempor Excepteur cillum cupidatat fugiat nostrud cupidatat dolor sunt sint sit nisi est eu exercitation incididunt adipisicing veniam velit id fugiat enim mollit amet anim veniam dolor dolor irure velit commodo cillum sit nulla ullamco magna amet magna cupidatat qui labore cillum sit in tempor veniam consequat non laborum adipisicing aliqua ea nisi sint ut quis proident ullamco ut dolore culpa occaecat ut laboris in sit minim cupidatat ut dolor voluptate enim veniam consequat occaecat fugiat in adipisicing in amet Ut nulla nisi non ut enim aliqua laborum mollit quis nostrud sed sed.
 					</p>
-					
-					<div class="write-comment"> 
-						<form class="form-horizontal">
-							<div class="form-group">
-								<div class="col-md-12">
-								  <input type="email" class="form-control" placeholder="Write your comments">
+					<!--comments-->
+										
+					<div class="">
+						<div class="container-fluid bootstrap snippet ">
+							<div class="container-fluid">
+								<div class="write-comment"> 
+									<form class="form-horizontal">
+										<div class="form-group">
+											<div class="text-center">
+											  <div><input type="email" class="form-control" placeholder="Write your comments" /> <button type="submit" class=""> <i class="fa fa-paper-plane" aria-hidden="true"> </i></button></div>
+											</div>
+										</div>
+									</form>
 								</div>
 							</div>
-						</form>
-					</div>
-					<!--comments-->
-					<div class="">
-						<div class="container bootstrap snippet ">
 							<div class="row">
 								<div class="col-md-12">
 									<div class="blog-comment">
-										<h3 class="text-success">Comments</h3>
+										<h3>Comments</h3>
 										<hr/>
 										<ul class="comments">
 										<li class="clearfix">
-										  <img src="https://bootdey.com/img/Content/user_1.jpg" class="avatar" alt="">
+										  <img class="avatar img-circle" src="images/avatars/user-03.jpg" alt="">
 										  <div class="post-comments">
 											  <p class="meta">Dec 18, 2014 <a href="#">JohnDoe</a> says : <i class="pull-right"><a href="#"><small>Reply</small></a></i></p>
 											  <p>
@@ -66,34 +68,35 @@
 										  </div>
 										</li>
 										<li class="clearfix">
-										  <img src="https://bootdey.com/img/Content/user_2.jpg" class="avatar" alt="">
+										  <img class="avatar img-circle" src="images/avatars/user-03.jpg" alt="">
 										  <div class="post-comments">
-											  <p class="meta">Dec 19, 2014 <a href="#">JohnDoe</a> says : <i class="pull-right"><a href="#"><small>Reply</small></a></i></p>
+											  <p class="meta">Dec 19, 2014 <a href="#">JohnDoe</a> says : <i class="pull-right"><span data-toggle="collapse" data-target="#reply"><small>Reply</small></span></i></p>
 											  <p>
 												  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 												  Etiam a sapien odio, sit amet
 											  </p>
 										  </div>
-										
-										  <ul class="reply-comments">
-											  <li class="clearfix">
-												  <img src="https://bootdey.com/img/Content/user_3.jpg" class="avatar" alt="">
-												  <div class="post-comments">
-													  <p class="meta">Dec 20, 2014 JohnDoe says : <i class="pull-right"><a href="#"><small>Reply</small></a></i></p>
-													  <p>
-														  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-														  Etiam a sapien odio, sit amet
-													  </p>
-												  </div>
-											  </li>
-										  </ul>
+											<div id="reply" class="collapse">
+											  <ul class="reply-comments">
+												  <li class="clearfix">
+													  <img class="avatar img-circle" src="images/avatars/user-03.jpg" alt="">
+													  <div class="post-comments">
+														  <p class="meta">Dec 20, 2014 JohnDoe says : <i class="pull-right"><a href="#"><small>Reply</small></a></i></p>
+														  <p>
+															  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+															  Etiam a sapien odio, sit amet
+														  </p>
+													  </div>
+												  </li>
+											  </ul>
+											</div>
 										</li>
 										</ul>
 									</div>
 								</div>
 							</div>
 						</div>
-					<div>
+					</div>
 					<!--//comments-->
 				</div> <!-- end s-content__main -->
 				<div class="s-content__pagenav">
