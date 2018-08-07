@@ -2997,9 +2997,7 @@ html.no-csstransitions .featured {
    padding-bottom: 0;
 }
 
-.s-content--narrow .row {
-   max-width: 960px;
-}
+
 
 .s-content__header {
    padding-bottom: 3rem;
