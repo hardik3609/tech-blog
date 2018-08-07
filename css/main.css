@@ -3737,6 +3737,9 @@ footer h4::after {
 	margin-top: 41px;
 
 }
+.s-content__main .write-reply-comment{
+	position: relative;
+}
 
 .s-content__main .write-comment .form-control{
 	padding: 23px 12px;
@@ -3750,8 +3753,19 @@ footer h4::after {
     top: 0;
     right: 3px;
 }
+.s-content__main .write-reply-comment button {
+    padding: 0;
+    background-color: #ffffff00;
+    border: none;
+    position: absolute;
+    top: -10px;
+    right: 3px;
+}
 .s-content__main .write-comment i{
 	font-size: 23px;
+}
+.s-content__main .write-reply-comment i{
+	font-size: 14px;
 }
  /* -------------------------------------------------------------------
  * ## content media
