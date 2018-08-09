@@ -35,10 +35,10 @@
 		<!--populer posts start-->
 			<div class="info-block-social">
 				<div class="row">
-					<div class="col-md-4 col-xs-4">
+					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-4">
 						<img src="images/avatars/user-03.jpg" class="img-responsive img-circle" alt="">
 					</div>
-					<div class="col-md-8 col-xs-8">
+					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-8">
 						<p>
 							Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua...
 						</p>
@@ -50,10 +50,10 @@
 		<!--populer posts start-->
 			<div class="info-block-social">
 				<div class="row">
-					<div class="col-md-4 col-xs-4">
+					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-4">
 						<img src="images/avatars/user-03.jpg" class="img-responsive img-circle" alt="">
 					</div>
-					<div class="col-md-8 col-xs-8">
+					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-8">
 						<p>
 							Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua...
 						</p>
@@ -65,10 +65,10 @@
 		<!--populer posts start-->
 			<div class="info-block-social">
 				<div class="row">
-					<div class="col-md-4 col-xs-4">
+					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-4">
 						<img src="images/avatars/user-03.jpg" class="img-responsive img-circle" alt="">
 					</div>
-					<div class="col-md-8 col-xs-8">
+					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-8">
 						<p>
 							Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua...
 						</p>
@@ -80,10 +80,25 @@
 		<!--populer posts start-->
 			<div class="info-block-social">
 				<div class="row">
-					<div class="col-md-4 col-xs-4">
+					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-4">
 						<img src="images/avatars/user-03.jpg" class="img-responsive img-circle" alt="">
 					</div>
-					<div class="col-md-8 col-xs-8">
+					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-8">
+						<p>
+							Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua...
+						</p>
+					</div>
+				</div>
+			</div>
+			<hr>
+		<!--populer posts end-->
+		<!--populer posts start-->
+			<div class="info-block-social">
+				<div class="row">
+					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-4">
+						<img src="images/avatars/user-03.jpg" class="img-responsive img-circle" alt="">
+					</div>
+					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-8">
 						<p>
 							Lorem ipsum Sed eiusmod esse aliqua sed incididunt aliqua incididunt mollit id et sit proident dolor nulla sed commodo est ad minim elit reprehenderit nisi officia aute incididunt velit sint in aliqua...
 						</p>

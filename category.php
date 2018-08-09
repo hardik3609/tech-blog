@@ -1,25 +1,32 @@
 <?php include"header.php";?>
 
 
-    <!-- s-content
-    ================================================== -->
-    <section class="s-content">
-		<div class="container">
-			<div class="row narrow text-center">
-				<div class="col-md-12 s-content__header" data-aos="fade-up">
-					<h1>Creative Graphic</h1>
-
-					<p class="lead">Dolor similique vitae. Exercitationem quidem occaecati iusto. Id non vitae enim quas error dolor maiores ut. Exercitationem earum ut repudiandae optio veritatis animi nulla qui dolores.</p>
-				</div>
-			</div>
-		</div>
+   <section class="s-content">
 		<div class="container">
 			<div class="row masonry-wrap">
 				<div class="masonry" style="height: auto !importent;">
 
 					<div class="grid-sizer"></div>
 					
-					<div class="col-md-8">
+					<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+						<!--single block start-->
+						<div class="top-blog">
+							<div class="top-blog-image">
+								<a href="#">
+									<img src="images/thumbs/masonry/blog1.jpg" srcset="images/thumbs/masonry/blog1.jpg 1x, images/thumbs/masonry/blog1.jpg 2x" width="100%" alt="">
+								</a>
+							</div>
+							<div class="top-blog-content">
+								<center>
+								<h2>Girl play with fireworks in nature</h2>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
+								the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of typ
+								e and scrambled it to make a type specimen book Lorem Ipsum has been the in…
+								</p>
+								</center>
+							</div>
+						</div>
+						<!--single block end-->
 						<!--Other blog start-->
 						<div class="grid">
 							<div class="item">
@@ -28,7 +35,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -63,7 +70,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -97,8 +104,7 @@
 									<article class=" entry format-standard" data-aos="fade-up">
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
-												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+												<img src="images/thumbs/masonry/lamp-800.jpg" width="100%" alt="">
 											</a>
 										</div>
 
@@ -133,7 +139,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -168,7 +174,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -200,7 +206,7 @@
 						</div>
 						<!--Other blog end-->
 					</div>
-					<div class="col-md-4">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<?php include"a-side.php";?>
 					</div>
 
@@ -225,6 +231,7 @@
 				</div>
 			</div>
 		</div>
+
     </section> <!-- s-content -->
     
 

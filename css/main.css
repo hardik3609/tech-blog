@@ -361,11 +361,12 @@ li {
 }
 
 ol, ul {
-   margin-left: 1.7rem;
+  list-style: none;
+  padding: 0;
 }
 
 ul li {
-   padding-left: .4rem;
+   
 }
 
 ul ul, ul ol, ol ol, ol ul {
@@ -1535,7 +1536,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin: 0 0 40px 0;
 }
 .masonry .top-blog-image{
-	height: 340px;
+	height: auto;
     overflow: hidden;
 }
 .masonry .top-blog-content{
@@ -3392,7 +3393,7 @@ footer a {
 
 footer h4 {
    font-family: "metropolis-bold", sans-serif;
-   font-size: 1.4rem;
+   font-size: 20px;
    line-height: 1.286;
    text-transform: uppercase;
    letter-spacing: .25rem;
@@ -3585,7 +3586,7 @@ footer h4::after {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width:1200px) {
    .s-footer__main > .row {
-      max-width: 800px;
+    
    }
 
    .s-footer__sitelinks, .s-footer__archives, .s-footer__social {
@@ -3608,7 +3609,7 @@ footer h4::after {
    }
 
    .s-footer__main .row {
-      max-width: 480px;
+    
    }
 
    .s-footer__main h4 {
@@ -3643,9 +3644,7 @@ footer h4::after {
       margin-bottom: 4.2rem;
    }
 
-   .s-footer__main .row [class*="col-"]:nth-child(2) {
-      display: none;
-   }
+   
 
    .s-footer__bottom {
       padding-bottom: .6rem;

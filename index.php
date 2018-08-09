@@ -1,6 +1,6 @@
 <?php include"header.php";?>
         <div class="pageheader-content row">
-            <div class="col-full">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
                 <div class="featured">
 
@@ -86,12 +86,12 @@
 
 					<div class="grid-sizer"></div>
 					
-					<div class="col-md-8">
+					<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
 						<!--single block start-->
 						<div class="top-blog">
 							<div class="top-blog-image">
 								<a href="#">
-									<img src="images/thumbs/masonry/blog1.jpg" srcset="images/thumbs/masonry/blog1.jpg 1x, images/thumbs/masonry/blog1.jpg 2x" alt="">
+									<img src="images/thumbs/masonry/blog1.jpg" srcset="images/thumbs/masonry/blog1.jpg 1x, images/thumbs/masonry/blog1.jpg 2x" width="100%" alt="">
 								</a>
 							</div>
 							<div class="top-blog-content">
@@ -113,7 +113,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -148,7 +148,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -182,7 +182,7 @@
 									<article class=" entry format-standard" data-aos="fade-up">
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
-												<img src="images/thumbs/masonry/lamp-800.jpg" alt="">
+												<img src="images/thumbs/masonry/lamp-800.jpg" width="100%" alt="">
 											</a>
 										</div>
 
@@ -217,7 +217,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -252,7 +252,7 @@
 										<div class="entry__thumb">
 											<a href="single-blog.php" class="entry__thumb-link">
 												<img src="images/thumbs/masonry/lamp-400.jpg" 
-														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" alt="">
+														srcset="images/thumbs/masonry/lamp-400.jpg 1x, images/thumbs/masonry/lamp-800.jpg 2x" width="100%" alt="">
 											</a>
 										</div>
 
@@ -284,7 +284,7 @@
 						</div>
 						<!--Other blog end-->
 					</div>
-					<div class="col-md-4">
+					<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 						<?php include"a-side.php";?>
 					</div>
 

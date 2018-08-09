@@ -5,9 +5,9 @@
 			<div class="s-footer__main">
 				<div class="row">
 					
-					<div class="col-md-2 s-footer__sitelinks">
+					<div class="col-lg-2 col-md-4 col-sm-4 col-xs-12 s-footer__sitelinks">
 							
-						<h4 class="text-center">Quick Links</h4>
+						<h4 class="">Quick Links</h4>
 
 						<ul class="s-footer__linklist">
 							<li><a href="#0">Home</a></li>
@@ -22,9 +22,9 @@
 
 					
 
-					<div class="col-md-2 s-footer__social">
+					<div class="col-lg-2 col-md-4 col-sm-4 col-xs-12 s-footer__social">
 							
-						<h4 class="text-center">Social</h4>
+						<h4 class="">Social</h4>
 
 						<ul class="s-footer__linklist">
 							<li><a href="#0">Facebook</a></li>
@@ -36,9 +36,9 @@
 						</ul>
 
 					</div> <!-- end s-footer__social -->
-					<div class="col-md-2 s-footer__social">
+					<div class="col-lg-2 col-md-4 col-sm-4 col-xs-12 s-footer__social">
 							
-						<h4 class="text-center">Social</h4>
+						<h4 class="">Social</h4>
 
 						<ul class="s-footer__linklist">
 							<li><a href="#0">Facebook</a></li>
@@ -51,7 +51,7 @@
 
 					</div> <!-- end s-footer__social -->
 
-					<div class="col-md-6 s-footer__subscribe">
+					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 s-footer__subscribe">
 							
 						<h4>Our Newsletter</h4>
 
@@ -77,7 +77,7 @@
 			<div class="s-footer__bottom">
 				<div class="container">
 					<div class="row">
-						<div class="col-full text-center">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
 							<div class="s-footer__copyright">
 								<span>© Copyright Ronak Taldar</span> 
 								<span>Design by <a href="https://www.taldartechconsultancy.com" target="_blank" >Taldar Tech Consultancy</a></span>

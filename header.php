@@ -45,7 +45,7 @@
 				<div class="header__content row">
 
 					<div class="header__logo">
-						<a class="logo" href="index.html">
+						<a class="logo" href="index.php">
 							<img src="images/logo.svg" alt="Homepage">
 						</a>
 					</div> <!-- end header__logo -->
